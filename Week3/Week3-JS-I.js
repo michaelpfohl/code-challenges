@@ -1,9 +1,9 @@
-"use strict";
+'use strict';
 
 //In these first 6 questions, replace `null` with the answer
 
 //1. create a string variable, it can contain anything
-const newString = "this is a string.";
+const newString = 'this is a string.';
 
 //2. create a number variable, it an be any number
 const newNum = 42;
